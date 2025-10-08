@@ -11,5 +11,3 @@ Implementation of reflex-based agents for vacuum cleaner robot simulation.
 - Task 5: Robustness analysis for various scenarios 
 - Advanced: Imperfect sensor handling for graduate students 
  
-## Usage 
-Run all cells in Copy_of_robot_vacuum.ipynb to execute the complete analysis. 
