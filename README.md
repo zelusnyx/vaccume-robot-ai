@@ -1,4 +1,4 @@
-# Vacuum Cleaner Robot AI Assignment 
+# Vacuum Cleaner Robot AI
  
 ## Overview 
 Implementation of reflex-based agents for vacuum cleaner robot simulation. 
@@ -9,5 +9,4 @@ Implementation of reflex-based agents for vacuum cleaner robot simulation.
 - Task 3: Model-based reflex agent with state tracking 
 - Task 4: Performance comparison study across room sizes 
 - Task 5: Robustness analysis for various scenarios 
-- Advanced: Imperfect sensor handling for graduate students 
  
